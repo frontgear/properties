@@ -1,0 +1,19 @@
+{
+  "name": "@frontgear/properties-dev",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "author": "crzyj",
+  "license": "MIT",
+  "repository": "frontgear/properties",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "dependencies": {
+    "@frontgear/events": "^0.0.1",
+    "@frontgear/lang": "^0.0.1"
+  },
+  "devDependencies": {
+    "@frontgear/dev-tools": "frontgear/dev-tools"
+  }
+}
